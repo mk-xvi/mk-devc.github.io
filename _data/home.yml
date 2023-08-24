@@ -7,29 +7,26 @@ navbar_entries:
 
 
 project_entries:
-  - title: LinkedList Viz
-    url:  overview-post
-    desc: A Web Application that allows you to transfer ETH to other tokens. Built with React and Solidity.
 
   - title: AI Img Generation
-    url: https://github.com/abhinavs/cookie
+    url: https://github.com/mk-devc/image-generation-app
     desc: An app that is used to work the brain for anyone
     highlight: WIP
 
   - title: Social Distancing Simulation
     url: https://github.com/mk-devc/social-distancing-simulation-java
     desc: A Java Application that simulates social distancing.
-    highlight: WIP
+    highlight: 
 
   - title: SalesDriver
     url: https://github.com/abhinavs/cookie
     desc: A set of important questions that is required when qualiying a lead.
-    highlight: MFA
+    highlight: WIP
 
-  - title: Chess AI
+  - title: Chess Bot
     url: https://github.com/abhinavs/cookie
     desc: A set of important questions that is required when qualiying a lead.
-    highlight: MFA
+    highlight:
     
 
 old_project_entries:
@@ -37,38 +34,31 @@ old_project_entries:
   - title: Data Auger
     url: https://www.soopr.co
     desc: An application that augments data for visual based models. Based on research tested on various models.
-    highlight: NEW
-
-  - title: Meta Data Encryptor
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
    
   - title: PyAlgo
     url: https://github.com/mk-devc/PyAlgo
     desc: A repo on fundamental & interesting algorithms with explanations on it. Making 
+    highlight: WIP
 
   - title: Matrix Effect
-    url: https://github.com/mk-devc/PyAlgo
-    desc: A repo on fundamental & interesting algorithms with explanations on it. Making 
+    url: https://github.com/mk-devc/MatrixEffect
+    desc: The matrix effect based on the Movie. Made in JS.
 
-  - title: Web Crawler
-    url: https://github.com/mk-devc/PyAlgo
-    desc: A repo on fundamental & interesting algorithms with explanations on it. Making 
 
-  - title: DorkList Search
+  - title: Youtube Bookmark
     url: overview-post
-    desc: An application that makes search more niche and easier to obtain information.
-    highlight: WIP
+    desc: A chrome extension that allows bookmark timestamp on youtube videos.
+    highlight: 
 
   - title: Java Email Blaster
-    url: overview-post
+    url: https://github.com/mk-devc/java_email_blaster
     desc: An application that makes search more niche and easier to obtain information.
-    highlight: WIP
+    highlight: 
 
   - title: IP Tracker
-    url: https://github.com/abhinavs/cookie
+    url: https://github.com/mk-devc/IP-Tracker
     desc: A set of important questions that is required when qualiying a lead.
-    highlight: MFA
+    highlight: 
 
 
 footer_entries:
@@ -84,11 +74,9 @@ footer_entries:
 misc_entries:
   - title: Movement is Key
     url: movement
-  - title: Let Me Be Your Guide in KL
-    url: guide
+#  - title: Let Me Be Your Guide in KL
+#    url: false
   - title: Art is an Expression
     url: art
-  - title: History Repeats Itself
-    url: history
 
 
