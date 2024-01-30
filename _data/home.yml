@@ -74,8 +74,8 @@ footer_entries:
 misc_entries:
   - title: Movement is Key
     url: movement
-#  - title: Let Me Be Your Guide in KL
-#    url: false
+  - title: Diving into Mixology and DJing
+    url: mixology&dj
   - title: Art is an Expression
     url: art
 
