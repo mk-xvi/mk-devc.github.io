@@ -74,6 +74,8 @@ footer_entries:
 misc_entries:
   - title: Movement is Key
     url: movement
+  - title: Judo 
+    url: judo
   - title: Diving into Mixology
     url: mixology
   - title: Art is an Expression
