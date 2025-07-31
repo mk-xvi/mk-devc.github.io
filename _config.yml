@@ -1,8 +1,8 @@
-title: MK Devs Blog
-author: Mohan Kumar
+title: MK Site
+author: MK
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-      A Software Developer with insights in Data Science, Blockchain & Automation.
+      Insights in Data Science, Artificial Intelligence & Human Mechanics 
       Looking to make more effective workflow and productive work done. 
 
 permalink: /:slug
